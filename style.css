@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Greatest-Earth-container{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+.Greatest-Earth-Context{
+    margin: 50px 10px 10px 200px ;
+    padding: 30px;
+    font-size: 20px;
+}
+.btn{
+    background-color: tomato;
+    padding: 10px 30px;
+    margin: 10px;
+    border-radius: 10px;
+    border:none;
+}
+.Greatest-Earth-img{
+    margin: 5px 100px 2px 1px;
+}
+
+.Blog-Container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.btn-link{
+    background-color: black;
+    padding: 30px;
+    margin: 10px 10px 1000px 50px;
+    
+    
+}
+.Upcoming-btn{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 25px;
+    width: 100%;
+    border: none;
+}
+.Blog-btn{
+    background-color:red;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 25px;
+    width: 100%;
+    border: none;
+}
+
+.Blog-context{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-right: 100px;
+
+}
+.Blog-context-Items{
+   border: 1px solid; 
+   max-height: 50%;
+   padding: 100px 10px 0px 10px;
+   text-align: center;
+   margin-right: 10px;
+}
+.Vs-team
+   {
+    display: flex;
+   }
+   .team-vs{
+    margin-top: 20px;
+   }
+.Blog-pagra{
+    font-size: 20px;
+}
+.time{
+    padding: 5px 10px;
+    margin:10px 0;
+}
+.footer-option{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer-option h1{
+    padding: 20px;
+}
+hr{
+    text-align: center;
+}
+.footer-link-tag{
+    padding: 20px;
+}
+.footer-link-tag a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
